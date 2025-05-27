@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 <b>Sou estudante no CentroWEG e apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco no desenvolvimento de software e na resolução criativa de problemas.
+- 🎓 <b>Sou estudante no CentroWEG e do sesi senai com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco no desenvolvimento de software e na resolução criativa de problemas.
 - 💡 Objetivo<b> Aprimorar cada vez mais minhas competências técnicas e contribuir com soluções inovadoras que impactem positivamente o mundo da tecnologia.
 
 ---
