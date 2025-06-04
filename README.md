@@ -75,6 +75,16 @@
   <a href="https://www.figma.com/" title="Figma" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" />
   </a>
+    <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" />
+  </a>
+  <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="35" />
+  </a>
+  <a href="https://jupyter.org/" title="Jupyter Notebook" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" />
+  </a>
+</p>
 </p>
 
 ---
