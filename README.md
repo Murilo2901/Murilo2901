@@ -16,7 +16,7 @@
 
 ## 🌐 Idiomas
 
-- 🇧🇷 <b>Português:</b> fluente (nativo)
+- 🇧🇷 <b>Português:</b> fluente 
 - 🇺🇸 <b>Inglês:</b> básico
 
 ---
@@ -38,9 +38,6 @@
   </a>
   <a href="https://www.python.org/" title="Python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
   </a>
   <a href="https://devdocs.io/cpp/" title="C++" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" 
@@ -78,12 +75,6 @@
     <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" />
   </a>
-  <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="35" />
-  </a>
-  <a href="https://jupyter.org/" title="Jupyter Notebook" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" />
-  </a>
 </p>
 </p>
 
@@ -94,9 +85,6 @@
 <p align="center">
   <a href="mailto:murilo_kerschbaum@estudante.sesisenai.org.br" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/murilokerschbaum" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/murilokerschbaum/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
