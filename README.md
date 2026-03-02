@@ -43,10 +43,6 @@
 
 <br> 
 
-<a href="https://github.com/Murilo2901" title="Meu perfil GitHub">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Murilo2901&theme=dracula&show_icons=true" />
-  <img width="325em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murilo2901&layout=compact&theme=dracula" />
-</a>
 
 ## 📫 Como me encontrar
 
