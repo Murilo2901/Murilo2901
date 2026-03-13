@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm logo" />
 </div>
 
-<br> 
+
 
 
 ## 📫 Como me encontrar
@@ -59,3 +59,5 @@
 </p>
 
 <h2 align="center">🚀 Obrigado por chegar até aqui!</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=200&section=footer" width="100%" />
