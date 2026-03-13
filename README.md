@@ -2,15 +2,6 @@
 
 
 
-
-<h1 align="center">
-
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
-<h2 align="center">Sou Murilo</h2>
-
-
----
-
 ## 🧑‍💻 Sobre mim
 
 - 🎓 <b>Sou estudante no CentroWEG e do Sesi Senai com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco em desenvolvimento web, mobile e desktop.</b>
