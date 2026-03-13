@@ -1,6 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=200&section=header" width="100%" />
+
+
+
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
-</h1>
 
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
 <h2 align="center">Sou Murilo</h2>
