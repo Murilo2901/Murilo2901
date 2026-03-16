@@ -11,8 +11,8 @@
 
 ## 🌐 Idiomas
 
-- 🇧🇷 <b>Português:</b> fluente 
-- 🇺🇸 <b>Inglês:</b> básico
+- 🇧🇷 <b>Português  
+- 🇺🇸 <b>Inglês básico
 
 ---
 
