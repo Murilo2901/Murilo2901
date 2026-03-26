@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=200&section=header" width="100%" />
 
 
-
 ## 🧑‍💻 Sobre mim
 
 - 🎓 <b>Sou estudante no CentroWEG e do Sesi Senai com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco em desenvolvimento web, mobile e desktop.</b>
