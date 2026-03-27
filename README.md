@@ -11,7 +11,7 @@
 ## 🌐 Idiomas
 
 - 🇧🇷 <b>Português  
-- 🇺🇸 <b>Inglês ruim
+- 🇺🇸 <b>Inglês intermediário
 
 ---
 
