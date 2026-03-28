@@ -42,6 +42,8 @@
 
 ## 📫 Como me encontrar
 
+📫 Rua henrique bortoline 226 !
+
 <p align="center">
   <a href="mailto:murilo_kerschbaum@estudante.sesisenai.org.br" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
