@@ -3,7 +3,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 <b>Sou um humilde trabalhador que integro minha empresa CentroWEG e do Sesi Senai sou apenas um aluno com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco em desenvolvimento web, mobile e desktop.</b>
+- 🎓 <b>Sou estudante do CentroWEG e do Sesi Senai com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco em desenvolvimento web, mobile e desktop.</b>
 - 💡 Objetivo<b> Aprimorar cada vez mais minhas competências técnicas e contribuir com soluções inovadoras que impactem positivamente o mundo da tecnologia.
 
 ---
