@@ -10,7 +10,7 @@
 
 ## 🌐 Idiomas
 
-- 🇧🇷 <b>Português mais ou menos 
+- 🇧🇷 <b>Português 
 - 🇺🇸 <b>Inglês intermediário
 
 ---
