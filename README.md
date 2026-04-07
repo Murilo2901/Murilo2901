@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=200&section=header" width="100%" />
 
 
-## 🧑‍💻 Sobre minha pessoas 
+## 🧑‍💻 Sobre mim
 
 - 🎓 <b>Sou um humilde trabalhador que integro minha empresa CentroWEG e do Sesi Senai sou apenas um aluno com técnico de desenvolvimento de sistemas, apaixonado por tecnologia. Estou constantemente evoluindo minhas habilidades e conhecimentos, com foco em desenvolvimento web, mobile e desktop.</b>
 - 💡 Objetivo<b> Aprimorar cada vez mais minhas competências técnicas e contribuir com soluções inovadoras que impactem positivamente o mundo da tecnologia.
@@ -42,7 +42,6 @@
 
 ## 📫 Como me encontrar
 
-📫 Rua henrique bortoline 226 !
 
 <p align="center">
   <a href="mailto:murilo_kerschbaum@estudante.sesisenai.org.br" target="_blank">
