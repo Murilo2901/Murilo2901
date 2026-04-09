@@ -51,6 +51,6 @@
   </a>
 </p>
 
-<h2 align="center">Obrigado por chegar até aqui!</h2>
+<h2 align="center">Sai do meu perfil seu curioso !</h2>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=200&section=footer" width="100%" />
