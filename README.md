@@ -37,6 +37,7 @@
 
 <h1 align="center">  
 
+
 [![Murilo2901's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Murilo2901&bg_color=000000&color=ffffff&line=0047AB&point=0047AB&area_color=0047AB&hide_border=true&area=true)](https://github.com/Murilo2901/github-readme-activity-graph)
 
 ## 📫 Como me encontrar
