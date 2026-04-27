@@ -8,7 +8,6 @@
 
 ---
 
-
 ## 🌐 Idiomas
 
 - 🇧🇷 <b>Português 
