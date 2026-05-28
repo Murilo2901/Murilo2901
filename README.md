@@ -10,8 +10,8 @@
 
 ## 🌐 Idiomas
 
-- 🇧🇷 <b>Português 
-- 🇺🇸 <b>Inglês intermediário
+- 🇧🇷 <b>Português:nativo
+- 🇺🇸 <b>Inglês:intermediário
 
 ---
 
